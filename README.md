@@ -1,6 +1,5 @@
 # Hi, I'm Rose 👋
 
-### Full-Stack Developer | Event Tech Enthusiast | Hospitality Professional
 
 I'm currently studying **at 42 École (Lyon, France)**, learning low-level programming and exploring modern web development alongside my studies.
 
@@ -31,7 +30,6 @@ I'm currently studying **at 42 École (Lyon, France)**, learning low-level progr
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/) 
 [![Elementor](https://img.shields.io/badge/Elementor-663399?logo=elementor&logoColor=white)](https://elementor.com/) 
-[![CLI](https://img.shields.io/badge/CLI-0f0f0f?logo=terminal&logoColor=white)](#)
 
 ---
 
