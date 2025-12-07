@@ -37,19 +37,9 @@ I'm currently studying **at 42 École (Lyon, France)**, learning low-level progr
 
 ## 📌 Featured Projects
 
-> Replace these with your actual project links
-
 - **Minishell** – A functional shell implementation following POSIX rules  
 - **Philosophers** – Multithreading, data races, and deadlock prevention  
 - **Cub3D** – 3D graphics project using raycasting to render a 3D world from a 2D map  
 - **Chateau Website** – Website for a 4-star castle hotel, built with WordPress and Elementor
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
-</p>
 
