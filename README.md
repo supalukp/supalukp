@@ -1,5 +1,6 @@
 # Hi, I'm Rose 👋
 
+
 ## ✨🚀 About Me
 
 - 🎓 **Software engineering student at 42 Lyon**  
