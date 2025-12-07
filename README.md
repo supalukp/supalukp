@@ -27,8 +27,8 @@
 
 ## 📌 Featured Projects
 
-- **Minishell** – A functional shell implementation following POSIX rules  
-- **Philosophers** – Multithreading, data races, and deadlock prevention  
-- **Cub3D** – 3D graphics project using raycasting to render a 3D world from a 2D map  
+- **[Minishell](https://github.com/supalukp/minishell)** – A functional shell implementation following POSIX rules  
+- **[Philosophers](https://github.com/supalukp/Philosophers)** – Multithreading, data races, and deadlock prevention  
+- **[Cub3D](https://github.com/supalukp/cub3D)** – 3D graphics project using raycasting to render a 3D world from a 2D map  
 - **Chateau Website** – Website for a 4-star castle hotel, built with WordPress and Elementor
 
