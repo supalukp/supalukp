@@ -9,7 +9,6 @@
 - 🌍 Originally from **Thailand**, currently living in **Lyon**  
 - 📫 How to reach me: supaluk.pun@gmail.com  
 
----
 
 ## 🛠️ Tech Stack & Tools
 ### **Languages & Systems**
@@ -25,7 +24,6 @@
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/) 
 [![Elementor](https://img.shields.io/badge/Elementor-663399?logo=elementor&logoColor=white)](https://elementor.com/) 
 
----
 
 ## 📌 Featured Projects
 
@@ -33,5 +31,4 @@
 - **Philosophers** – Multithreading, data races, and deadlock prevention  
 - **Cub3D** – 3D graphics project using raycasting to render a 3D world from a 2D map  
 - **Chateau Website** – Website for a 4-star castle hotel, built with WordPress and Elementor
-
 
