@@ -1,10 +1,5 @@
 # Hi, I'm Rose 👋
 
-
-I'm currently studying **at 42 École (Lyon, France)**, learning low-level programming and exploring modern web development alongside my studies.
-
----
-
 ## ✨🚀 About Me
 
 - 🎓 **Software engineering student at 42 Lyon**  
