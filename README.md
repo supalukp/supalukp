@@ -10,19 +10,31 @@
 - 📫 How to reach me: supaluk.pun@gmail.com  
 
 
-## 🛠️ Tech Stack & Tools
-### **Languages & Systems**
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
-[![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
-[![Unix](https://img.shields.io/badge/Unix-FCC624?logo=unix&logoColor=black)](https://en.wikipedia.org/wiki/Unix) 
-[![Low-level Architecture](https://img.shields.io/badge/Low--level%20Architecture-0f0f0f?logo=none)](#)
+## 🛠️ Tech Stack
 
-### **Tools & Platforms**
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) 
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/) 
-[![Elementor](https://img.shields.io/badge/Elementor-663399?logo=elementor&logoColor=white)](https://elementor.com/) 
+### Languages & Systems
+
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+
+### Web & Frontend
+
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+
+### Tools & Platforms
+
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)](https://elementor.com/)
+
 
 
 ## 📌 Featured Projects
@@ -30,5 +42,6 @@
 - **[Minishell](https://github.com/supalukp/minishell)** – A functional shell implementation following POSIX rules  
 - **[Philosophers](https://github.com/supalukp/Philosophers)** – Multithreading, data races, and deadlock prevention  
 - **[Cub3D](https://github.com/supalukp/cub3D)** – 3D graphics project using raycasting to render a 3D world from a 2D map  
-- **Chateau Website** – Website for a 4-star castle hotel, built with WordPress and Elementor
+- **[Chateau Website](https://chateaudecodignat.fr/)** – Website for a 4-star castle hotel, built with WordPress and Elementor
+- **[ft_transcendence](https://github.com/supalukp/ft_transcendence)** – A multiplayer location-guessing web application inspired by GeoGuessr, featuring real-time gameplay and a responsive React frontend.
 
