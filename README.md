@@ -44,5 +44,5 @@
 - **[Philosophers](https://github.com/supalukp/Philosophers)** – Multithreading, data races, and deadlock prevention  
 - **[Cub3D](https://github.com/supalukp/cub3D)** – 3D graphics project using raycasting to render a 3D world from a 2D map  
 - **[Chateau Website](https://chateaudecodignat.fr/)** – Website for a 4-star castle hotel, built with WordPress and Elementor
-- **ft_transcendence** – A multiplayer location-guessing web application inspired by GeoGuessr, featuring real-time gameplay and a responsive React frontend.
+- **ft_transcendence** – A GeoGuessr-inspired multiplayer geolocation game built with React, TypeScript, Go, and PostgreSQL, featuring real-time gameplay, solo and multiplayer modes, and interactive player statistics.
 
