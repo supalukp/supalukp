@@ -3,8 +3,6 @@
 
 ## ✨🚀 About Me
 - 🎓 **Software engineering student at 42 Lyon**  
-- 🧠 Learning **C**, **C++**, **Unix systems**, and **low-level architecture**  
-- 💡 Interested in **Web development** and **Application development**  
 - 🎨 Background in **Event management** & **3D Event design** — project planning, creativity, leadership  
 - 🌍 Originally from **Thailand**, currently living in **Lyon, France**  
 - 📫 How to reach me: supaluk.pun@gmail.com  
